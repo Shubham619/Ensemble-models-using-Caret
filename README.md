@@ -1,4 +1,4 @@
-# Ensemble-models-using-Caret 
+# Loan Prediction (Ensemble-models-using-Caret)
 Ensemble technique is used for combining two or more algorithms of similar or dissimilar types.I
 have performed One hot-encoding before splitting data and then recursive feature selection.
 Different methods are used for predicting loan approval such as averaging, majority votes and
